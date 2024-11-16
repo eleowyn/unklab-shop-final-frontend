@@ -1,11 +1,11 @@
 [
     {
         "id": 11,
-        "name": "Jacket",
-        "price": 820,
-        "discription": "GoPro HERO6 4K Action Camera - Black",
+        "name": "Mini Fan",
+        "price": 50,
+        "discription": "Mini Fan Miniso - Pink",
         "Fulldiscription": "GoPro HERO6 4K Action Camera - Black GoPro HERO6 4K Action Camera - BlackGoPro HERO6 4K Action Camera - Black",
-        "imgUrl": "/images/jacket.png"
+        "imgUrl": "/images/kipas mini.jgp"
     },
     {
         "id": 12,

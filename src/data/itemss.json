@@ -2,7 +2,7 @@
     {
         "id": 11,
         "name": "Mini Fan",
-        "price": 50,
+        "price": 50000,
         "discription": "Mini Fan Miniso - Pink",
         "Fulldiscription": "Mini Fan Miniso, 5-7V, Pink",
         "imgUrl": "/images/kipas-mini.jpg"
@@ -10,15 +10,15 @@
     {
         "id": 12,
         "name": "Sticky Note",
-        "price": 600,
-        "discription": "GoPro HERO6 4K Action Camera - Black",
-        "Fulldiscription": "GoPro HERO6 4K Action Camera - Black GoPro HERO6 4K Action Camera - BlackGoPro HERO6 4K Action Camera - Black",
+        "price": 6000,
+        "discription": "Cute Sticky Notes",
+        "Fulldiscription": "Cute Shaped Sticky Note for your daily college life",
         "imgUrl": "/images/stikynotes.jpg"
     },
     {
         "id": 13,
         "name": "Kaos Filkom",
-        "price": 18000,
+        "price": 150000,
         "discription": "GoPro HERO6 4K Action Camera - Black",
         "Fulldiscription": "GoPro HERO6 4K Action Camera - Black GoPro HERO6 4K Action Camera - BlackGoPro HERO6 4K Action Camera - Black",
         "imgUrl": "/images/kaos-filkom.jpg"
@@ -26,26 +26,26 @@
     {
         "id": 14,
         "name": "Lanyard Filkom 2",
-        "price": 300,
-        "discription": "GoPro HERO6 4K Action Camera - Black",
-        "Fulldiscription": "GoPro HERO6 4K Action Camera - Black GoPro HERO6 4K Action Camera - BlackGoPro HERO6 4K Action Camera - Black",
+        "price": 35000,
+        "discription": "Blue Black",
+        "Fulldiscription": "Simple Lanyard",
         "imgUrl": "/images/lanyard-filkom2.jpg"
     },
     {
         "id": 15,
-        "name": "Ipad",
+        "name": "Payung Hitam",
         "price": 30000,
-        "discription": "GoPro HERO6 4K Action Camera - Black",
-        "Fulldiscription": "GoPro HERO6 4K Action Camera - Black GoPro HERO6 4K Action Camera - BlackGoPro HERO6 4K Action Camera - Black",
-        "imgUrl": "/images/ipad.webp"
+        "discription": "Black",
+        "Fulldiscription": "Protect Your skin and body from the sun and rain with our umbrella",
+        "imgUrl": "/images/payung-hitam.jpg"
     },
     {
         "id": 16,
-        "name": "PunchBag",
+        "name": "UNKLAB Almamater",
         "price": 550,
-        "discription": "GoPro HERO6 4K Action Camera - Black",
-        "Fulldiscription": "GoPro HERO6 4K Action Camera - Black GoPro HERO6 4K Action Camera - BlackGoPro HERO6 4K Action Camera - Black",
-        "imgUrl": "/images/punchbag.jpg"
+        "discription": "Purple with UNKLAB Logo",
+        "Fulldiscription": "UNKLAB Almamater with UNKLAB Logo - Purple",
+        "imgUrl": "/images/unklab-almamater.jpg"
     },
     {
         "id": 17,
@@ -53,7 +53,7 @@
         "price": 15000000,
         "discription": "GoPro HERO6 4K Action Camera - Black",
         "Fulldiscription": "GoPro HERO6 4K Action Camera - Black GoPro HERO6 4K Action Camera - BlackGoPro HERO6 4K Action Camera - Black",
-        "imgUrl": "/images/gclass.jpg"
+        "imgUrl": "/images/stikynotes.jpg"
     },
     {
         "id": 18,
@@ -61,7 +61,7 @@
         "price": 1900000,
         "discription": "GoPro HERO6 4K Action Camera - Black",
         "Fulldiscription": "GoPro HERO6 4K Action Camera - Black GoPro HERO6 4K Action Camera - BlackGoPro HERO6 4K Action Camera - Black",
-        "imgUrl": "/images/villa.png"
+        "imgUrl": "/images/stikynotes.jpg"
     },
     {
         "id": 19,
@@ -69,7 +69,7 @@
         "price": 800,
         "discription": "GoPro HERO6 4K Action Camera - Black",
         "Fulldiscription": "GoPro HERO6 4K Action Camera - Black GoPro HERO6 4K Action Camera - BlackGoPro HERO6 4K Action Camera - Black",
-        "imgUrl": "/images/bags.jpg"
+        "imgUrl": "/images/stikynotes.jpg"
     },
     {
         "id": 20,
@@ -77,7 +77,7 @@
         "price": 88000,
         "discription": "GoPro HERO6 4K Action Camera - Black",
         "Fulldiscription": "GoPro HERO6 4K Action Camera - Black GoPro HERO6 4K Action Camera - BlackGoPro HERO6 4K Action Camera - Black",
-        "imgUrl": "/images/air.jpg"
+        "imgUrl": "/images/stikynotes.jpg"
     },
     {
         "id": 21,
@@ -85,7 +85,7 @@
         "price": 700,
         "discription": "GoPro HERO6 4K Action Camera - Black",
         "Fulldiscription": "GoPro HERO6 4K Action Camera - Black GoPro HERO6 4K Action Camera - BlackGoPro HERO6 4K Action Camera - Black",
-        "imgUrl": "/images/Dior.png"
+        "imgUrl": "/images/stikynotes.jpg"
     },
     {
         "id": 22,
@@ -93,7 +93,7 @@
         "price": 3000,
         "discription": "GoPro HERO6 4K Action Camera - Black",
         "Fulldiscription": "GoPro HERO6 4K Action Camera - Black GoPro HERO6 4K Action Camera - BlackGoPro HERO6 4K Action Camera - Black",
-        "imgUrl": "/images/shose.jpg"
+        "imgUrl": "/images/stikynotes.jpg"
     },
     {
         "id": 23,
@@ -101,7 +101,7 @@
         "price": 50000,
         "discription": "GoPro HERO6 4K Action Camera - Black",
         "Fulldiscription": "GoPro HERO6 4K Action Camera - Black GoPro HERO6 4K Action Camera - BlackGoPro HERO6 4K Action Camera - Black",
-        "imgUrl": "/images/omega.webp"
+        "imgUrl": "/images/stikynotes.jpg"
     },
     {
         "id": 24,
@@ -109,7 +109,7 @@
         "price": 5000,
         "discription": "GoPro HERO6 4K Action Camera - Black",
         "Fulldiscription": "GoPro HERO6 4K Action Camera - Black GoPro HERO6 4K Action Camera - BlackGoPro HERO6 4K Action Camera - Black",
-        "imgUrl": "/images/image 63.png"
+        "imgUrl": "/images/stikynotes.jpg"
     },
     {
         "id": 25,
@@ -117,7 +117,7 @@
         "price": 2570,
         "discription": "GoPro HERO6 4K Action Camera - Black",
         "Fulldiscription": "GoPro HERO6 4K Action Camera - Black GoPro HERO6 4K Action Camera - BlackGoPro HERO6 4K Action Camera - Black",
-        "imgUrl": "/images/whay.png"
+        "imgUrl": "/images/stikynotes.jpg"
     },
     {
         "id": 26,
@@ -125,7 +125,7 @@
         "price": 2000,
         "discription": "GoPro HERO6 4K Action Camera - Black",
         "Fulldiscription": "GoPro HERO6 4K Action Camera - Black GoPro HERO6 4K Action Camera - BlackGoPro HERO6 4K Action Camera - Black",
-        "imgUrl": "/images/chair.webp"
+        "imgUrl": "/images/stikynotes.jpg"
     },
     {
         "id": 27,
@@ -133,7 +133,7 @@
         "price": 10000,
         "discription": "GoPro HERO6 4K Action Camera - Black",
         "Fulldiscription": "GoPro HERO6 4K Action Camera - Black GoPro HERO6 4K Action Camera - BlackGoPro HERO6 4K Action Camera - Black",
-        "imgUrl": "/images/bike.jpg"
+        "imgUrl": "/images/stikynotes.jpg"
     },
     {
         "id": 28,
@@ -141,7 +141,7 @@
         "price": 20000,
         "discription": "GoPro HERO6 4K Action Camera - Black",
         "Fulldiscription": "GoPro HERO6 4K Action Camera - Black GoPro HERO6 4K Action Camera - BlackGoPro HERO6 4K Action Camera - Black",
-        "imgUrl": "/images/airbods.webp"
+        "imgUrl": "/images/stikynotes.jpg"
     },
     {
         "id": 29,
@@ -149,7 +149,7 @@
         "price": 400,
         "discription": "GoPro HERO6 4K Action Camera - Black",
         "Fulldiscription": "GoPro HERO6 4K Action Camera - Black GoPro HERO6 4K Action Camera - BlackGoPro HERO6 4K Action Camera - Black",
-        "imgUrl": "/images/ring.jpg"
+        "imgUrl": "/images/stikynotes.jpg"
     },
     {
         "id": 30,
@@ -157,7 +157,7 @@
         "price":5000,
         "discription": "GoPro HERO6 4K Action Camera - Black",
         "Fulldiscription": "GoPro HERO6 4K Action Camera - Black GoPro HERO6 4K Action Camera - BlackGoPro HERO6 4K Action Camera - Black",
-        "imgUrl": "/images/sort.jpg"
+        "imgUrl": "/images/stikynotes.jpg"
     },
     {
         "id": 31,
@@ -165,7 +165,7 @@
         "price": 15700,
         "discription": "GoPro HERO6 4K Action Camera - Black",
         "Fulldiscription": "GoPro HERO6 4K Action Camera - Black GoPro HERO6 4K Action Camera - BlackGoPro HERO6 4K Action Camera - Black",
-        "imgUrl": "/images/gun.jpeg"
+        "imgUrl": "/images/stikynotes.jpg"
     },
     {
         "id": 32,
@@ -173,7 +173,7 @@
         "price": 123,
         "discription": "GoPro HERO6 4K Action Camera - Black",
         "Fulldiscription": "GoPro HERO6 4K Action Camera - Black GoPro HERO6 4K Action Camera - BlackGoPro HERO6 4K Action Camera - Black",
-        "imgUrl": "/images/dart.jpg"
+        "imgUrl": "/images/stikynotes.jpg"
     },
     {
         "id": 33,
@@ -181,7 +181,7 @@
         "price": 2500,
         "discription": "GoPro HERO6 4K Action Camera - Black",
         "Fulldiscription": "GoPro HERO6 4K Action Camera - Black GoPro HERO6 4K Action Camera - BlackGoPro HERO6 4K Action Camera - Black",
-        "imgUrl": "/images/sot.jpg"
+        "imgUrl": "/images/stikynotes.jpg"
     },
     {
         "id": 34,
@@ -189,7 +189,7 @@
         "price": 1000000000,
         "discription": "GoPro HERO6 4K Action Camera - Black",
         "Fulldiscription": "GoPro HERO6 4K Action Camera - Black GoPro HERO6 4K Action Camera - BlackGoPro HERO6 4K Action Camera - Black",
-        "imgUrl": "/images/mjolnir.webp"
+        "imgUrl": "/images/stikynotes.jpg"
     },
     {
         "id": 35,
@@ -197,7 +197,7 @@
         "price": 100000,
         "discription": "GoPro HERO6 4K Action Camera - Black",
         "Fulldiscription": "GoPro HERO6 4K Action Camera - Black GoPro HERO6 4K Action Camera - BlackGoPro HERO6 4K Action Camera - Black",
-        "imgUrl": "/images/thanos glove.webp"
+        "imgUrl": "/images/stikynotes.jpg"
     },
     {
         "id": 36,
@@ -205,7 +205,7 @@
         "price": 350,
         "discription": "GoPro HERO6 4K Action Camera - Black",
         "Fulldiscription": "GoPro HERO6 4K Action Camera - Black GoPro HERO6 4K Action Camera - BlackGoPro HERO6 4K Action Camera - Black",
-        "imgUrl": "/images/batman.webp"
+        "imgUrl": "/images/stikynotes.jpg"
     },
     {
         "id": 37,
@@ -213,7 +213,7 @@
         "price": 400,
         "discription": "GoPro HERO6 4K Action Camera - Black",
         "Fulldiscription": "GoPro HERO6 4K Action Camera - Black GoPro HERO6 4K Action Camera - BlackGoPro HERO6 4K Action Camera - Black",
-        "imgUrl": "/images/bokhary.jpg"
+        "imgUrl": "/images/stikynotes.jpg"
     },
     {
         "id": 38,
@@ -221,7 +221,7 @@
         "price": 9999999,
         "discription": "GoPro HERO6 4K Action Camera - Black",
         "Fulldiscription": "GoPro HERO6 4K Action Camera - Black GoPro HERO6 4K Action Camera - BlackGoPro HERO6 4K Action Camera - Black",
-        "imgUrl": "/images/goldeniphone.jpg"
+        "imgUrl": "/images/stikynotes.jpg"
     },
     {
         "id": 39,
@@ -229,7 +229,7 @@
         "price": 600,
         "discription": "GoPro HERO6 4K Action Camera - Black",
         "Fulldiscription": "GoPro HERO6 4K Action Camera - Black GoPro HERO6 4K Action Camera - BlackGoPro HERO6 4K Action Camera - Black",
-        "imgUrl": "/images/keyboard.webp"
+        "imgUrl": "/images/stikynotes.jpg"
     },
     {
         "id": 40,
@@ -237,6 +237,6 @@
         "price": 60000,
         "discription": "GoPro HERO6 4K Action Camera - Black",
         "Fulldiscription": "GoPro HERO6 4K Action Camera - Black GoPro HERO6 4K Action Camera - BlackGoPro HERO6 4K Action Camera - Black",
-        "imgUrl": "/images/laptop.jpeg"
+        "imgUrl": "/images/stikynotes.jpg"
     }
 ]

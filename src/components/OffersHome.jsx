@@ -50,7 +50,7 @@ const OffersHome = ({ id, price, name, imgUrl, discription, seconds }) => {
                 </div>
             </div>
             <div className="grid justify-center mt-5">
-                <img className=" h-full w-full" src="/images/enhance.png" alt="Banner" />
+                <img className=" h-full w-full" src="/images/bannermerchandiseblue.jpg" alt="Banner" />
                 <div className='flex relative bottom-20 left-10 w-[180px]'>
                     <div className=' z-0'>
                         <NavLink to='/' className="relative inline-block text-lg group">

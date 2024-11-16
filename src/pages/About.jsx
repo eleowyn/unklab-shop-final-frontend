@@ -10,7 +10,7 @@ const About = () => {
                     <p className='m-5'>Exclusive has more than 1 Million products to offer, growing at a very fast. <br /> Exclusive offers a diverse assotment in categories ranging  from consumer.</p>
                 </div>
                 <div className='flex justify-center'>
-                    <img className='h-[500px] max-[748px]:h-[400px] rounded-lg' src="/images/ecommerceimg.avif" alt="" />
+                    <img className='h-[500px] max-[748px]:h-[400px] rounded-lg' src="/images/banner-unklab.jpg" alt="" />
                 </div>
             </div>
         </>

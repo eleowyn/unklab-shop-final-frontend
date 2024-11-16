@@ -9,27 +9,27 @@
     },
     {
         "id": 12,
-        "name": "chess Board",
+        "name": "Sticky Note",
         "price": 600,
         "discription": "GoPro HERO6 4K Action Camera - Black",
         "Fulldiscription": "GoPro HERO6 4K Action Camera - Black GoPro HERO6 4K Action Camera - BlackGoPro HERO6 4K Action Camera - Black",
-        "imgUrl": "/images/chess.webp"
+        "imgUrl": "/images/stikynotes.jpg"
     },
     {
         "id": 13,
-        "name": "Sniper",
+        "name": "Kaos Filkom",
         "price": 18000,
         "discription": "GoPro HERO6 4K Action Camera - Black",
         "Fulldiscription": "GoPro HERO6 4K Action Camera - Black GoPro HERO6 4K Action Camera - BlackGoPro HERO6 4K Action Camera - Black",
-        "imgUrl": "/images/sniper.avif"
+        "imgUrl": "/images/kaos-filkom.jpg"
     },
     {
         "id": 14,
-        "name": "مصحف بالرسم العثماني",
+        "name": "Lanyard Filkom 2",
         "price": 300,
         "discription": "GoPro HERO6 4K Action Camera - Black",
         "Fulldiscription": "GoPro HERO6 4K Action Camera - Black GoPro HERO6 4K Action Camera - BlackGoPro HERO6 4K Action Camera - Black",
-        "imgUrl": "/images/moshaf.webp"
+        "imgUrl": "/images/lanyard-filkom2.jpg"
     },
     {
         "id": 15,

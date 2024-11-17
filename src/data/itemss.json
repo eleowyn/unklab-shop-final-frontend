@@ -9,26 +9,26 @@
     },
     {
         "id": 12,
-        "name": "Sticky Note",
-        "price": 6000,
-        "discription": "Cute Sticky Notes",
-        "Fulldiscription": "Cute Shaped Sticky Note for your daily college life",
+        "name": "Sandal",
+        "price": 60000,
+        "discription": "Sandal Antislip - Black",
+        "Fulldiscription": "Durable slipper",
         "imgUrl": "/images/slippers.jpg"
     },
     {
         "id": 13,
         "name": "Yale Sweater",
         "price": 150000,
-        "discription": "GoPro HERO6 4K Action Camera - Black",
-        "Fulldiscription": "GoPro HERO6 4K Action Camera - Black GoPro HERO6 4K Action Camera - BlackGoPro HERO6 4K Action Camera - Black",
+        "discription": "Yale Sweater - Black",
+        "Fulldiscription": "Stay stylish and comfortable with the Yale sweater – the perfect blend of coziness and prestige!",
         "imgUrl": "/images/yale-sweater.jpg"
     },
     {
         "id": 14,
-        "name": "Lanyard Filkom 2",
+        "name": "Polo Hat",
         "price": 35000,
-        "discription": "Blue Black",
-        "Fulldiscription": "Simple Lanyard",
+        "discription": "Polo Hat - white",
+        "Fulldiscription": "Classy simple hat",
         "imgUrl": "/images/polo-hat.jpg"
     },
     {
@@ -36,87 +36,87 @@
         "name": "Payung Hitam",
         "price": 30000,
         "discription": "Black",
-        "Fulldiscription": "Protect Your skin and body from the sun and rain with our umbrella",
+        "Fulldiscription": "Stay classy and dry with the timeless elegance of a black umbrella!",
         "imgUrl": "/images/payung-hitam.jpg"
     },
     {
         "id": 16,
-        "name": "UNKLAB Almamater",
-        "price": 550,
-        "discription": "Purple with UNKLAB Logo",
-        "Fulldiscription": "UNKLAB Almamater with UNKLAB Logo - Purple",
+        "name": "Tissue Box",
+        "price": 55000,
+        "discription": "Oak tree tissue box",
+        "Fulldiscription": "Durable anti-hydro tissue box made out of premium material",
         "imgUrl": "/images/tissue.jpg"
     },
     {
         "id": 17,
-        "name": "GClass",
+        "name": "Pouch",
         "price": 15000000,
-        "discription": "GoPro HERO6 4K Action Camera - Black",
-        "Fulldiscription": "GoPro HERO6 4K Action Camera - Black GoPro HERO6 4K Action Camera - BlackGoPro HERO6 4K Action Camera - Black",
+        "discription": "Pouch Square - White",
+        "Fulldiscription": "Pouch for everything to carry or organize small item",
         "imgUrl": "/images/pencil-case.jpg"
     },
     {
         "id": 18,
-        "name": "Villa",
-        "price": 1900000,
-        "discription": "GoPro HERO6 4K Action Camera - Black",
-        "Fulldiscription": "GoPro HERO6 4K Action Camera - Black GoPro HERO6 4K Action Camera - BlackGoPro HERO6 4K Action Camera - Black",
+        "name": "Towel",
+        "price": 190000,
+        "discription": "Towel - BLue",
+        "Fulldiscription": "Skin sensitive friendly towel",
         "imgUrl": "/images/handuk.jpg"
     },
     {
         "id": 19,
-        "name": "Bag",
-        "price": 800,
-        "discription": "GoPro HERO6 4K Action Camera - Black",
-        "Fulldiscription": "GoPro HERO6 4K Action Camera - Black GoPro HERO6 4K Action Camera - BlackGoPro HERO6 4K Action Camera - Black",
+        "name": "Clipper",
+        "price": 8000,
+        "discription": "Clipper - Black",
+        "Fulldiscription": "Handy cliiper to carry around",
         "imgUrl": "/images/hekter_mini.jpg"
     },
     {
         "id": 20,
-        "name": "Air Conditioner",
+        "name": "Blanket",
         "price": 88000,
-        "discription": "GoPro HERO6 4K Action Camera - Black",
-        "Fulldiscription": "GoPro HERO6 4K Action Camera - Black GoPro HERO6 4K Action Camera - BlackGoPro HERO6 4K Action Camera - Black",
+        "discription": "Blanket - Black",
+        "Fulldiscription": "To cover your body from the cold of Minut",
         "imgUrl": "/images/blanket.jpg"
     },
     {
         "id": 21,
         "name": "Dior Suvage",
-        "price": 700,
-        "discription": "GoPro HERO6 4K Action Camera - Black",
-        "Fulldiscription": "GoPro HERO6 4K Action Camera - Black GoPro HERO6 4K Action Camera - BlackGoPro HERO6 4K Action Camera - Black",
+        "price": 7000,
+        "discription": "Pad",
+        "Fulldiscription": "Menstruation Pad for the ladies",
         "imgUrl": "/images/pembalut.jpg"
     },
     {
         "id": 22,
-        "name": "Italian Shose",
+        "name": "Binder",
         "price": 3000,
-        "discription": "GoPro HERO6 4K Action Camera - Black",
-        "Fulldiscription": "GoPro HERO6 4K Action Camera - Black GoPro HERO6 4K Action Camera - BlackGoPro HERO6 4K Action Camera - Black",
+        "discription": "Binder -white",
+        "Fulldiscription": "Simple B5 binder to carry around for daily task",
         "imgUrl": "/images/simple-binder.jpg"
     },
     {
         "id": 23,
-        "name": "Omega Watch",
+        "name": "Shampoo",
         "price": 50000,
-        "discription": "GoPro HERO6 4K Action Camera - Black",
-        "Fulldiscription": "GoPro HERO6 4K Action Camera - Black GoPro HERO6 4K Action Camera - BlackGoPro HERO6 4K Action Camera - Black",
+        "discription": "Shampoo",
+        "Fulldiscription": "For the nutrition of your hair",
         "imgUrl": "/images/pantene-shampoo.jpg"
     },
     {
         "id": 24,
-        "name": "Joy Stick",
+        "name": "Pens",
         "price": 5000,
-        "discription": "GoPro HERO6 4K Action Camera - Black",
-        "Fulldiscription": "GoPro HERO6 4K Action Camera - Black GoPro HERO6 4K Action Camera - BlackGoPro HERO6 4K Action Camera - Black",
+        "discription": "Pens - Colorfull",
+        "Fulldiscription": "Colorful-Pen in the pastels color",
         "imgUrl": "/images/pastel-pens.jpg"
     },
     {
         "id": 25,
-        "name": "Whay Protein",
+        "name": "Charger",
         "price": 2570,
-        "discription": "GoPro HERO6 4K Action Camera - Black",
-        "Fulldiscription": "GoPro HERO6 4K Action Camera - Black GoPro HERO6 4K Action Camera - BlackGoPro HERO6 4K Action Camera - Black",
+        "discription": "Charger Type C",
+        "Fulldiscription": "GFor phone wuth type-c plugin",
         "imgUrl": "/images/charger-typec.jpg"
     },
     {

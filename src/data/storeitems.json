@@ -13,7 +13,7 @@
         "price": 100000,
         "discription": "Jersey 1 Packet, Black and Yellow",
         "Fulldiscription": "Embrace your faculty with our FILKOM Jersey!, Make it Cool to be Cool ",
-        "imgUrl": "/images/jersey-filkom.jpg"
+        "imgUrl": "/images/nitendo.jpg"
     },
     {
         "id": 3,
@@ -21,7 +21,7 @@
         "price": 15000,
         "discription": "Blue Black White Lanyard",
         "Fulldiscription": "New Faculty, New Design, New Lanyard for new faculty",
-        "imgUrl": "/images/lanyard-arsi.jpg"
+        "imgUrl": "/images/laptop-gaming.jpg"
     },
     {
         "id": 4,
@@ -29,14 +29,14 @@
         "price": 35000,
         "discription": "White Totebag with Ghost Icon",
         "Fulldiscription": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus, et numquam? Fuga impedit animi facere incidunt aperiam nisi.",
-        "imgUrl": "/images/totebag-ghost.jpg"
+        "imgUrl": "/images/the-totebag.jpg"
     },
     {
         "id": 5,
         "name": "Topi",
         "price": 20000,
-        "discription": "Various Color of at",
+        "discription": "Various Color",
         "Fulldiscription": "At UNKLAB the sun feels like there's a 2 sun, protect your skin with our hat!",
-        "imgUrl": "/images/topi.jpg"
+        "imgUrl": "/images/lanyard-software.jpg"
     }
 ]

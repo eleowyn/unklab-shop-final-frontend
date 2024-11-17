@@ -16,7 +16,7 @@ const HeroHome = () => {
                     </nav>
                 </div>
                 <div className="flex justify-center mt-5">
-                    <img className=" h-full w-full" src="/images/bannermerchandise.jpg" alt="Banner" />
+                    <img className=" h-full w-full" src="/images/sale-banner.png" alt="Banner" />
                 </div>
             </div>
         </>

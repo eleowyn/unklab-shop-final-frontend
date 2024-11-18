@@ -10,7 +10,7 @@
     {
         "id": 12,
         "name": "Sandal",
-        "price": 60000,
+        "price": 30000,
         "discription": "Sandal Antislip - Black",
         "Fulldiscription": "Durable slipper",
         "imgUrl": "/images/slippers.jpg"
@@ -26,7 +26,7 @@
     {
         "id": 14,
         "name": "Polo Hat",
-        "price": 35000,
+        "price": 500000,
         "discription": "Polo Hat - white",
         "Fulldiscription": "Classy simple hat",
         "imgUrl": "/images/polo-hat.jpg"
@@ -42,7 +42,7 @@
     {
         "id": 16,
         "name": "Tissue Box",
-        "price": 55000,
+        "price": 20000,
         "discription": "Oak tree tissue box",
         "Fulldiscription": "Durable anti-hydro tissue box made out of premium material",
         "imgUrl": "/images/tissue.jpg"
@@ -50,7 +50,7 @@
     {
         "id": 17,
         "name": "Pouch",
-        "price": 15000000,
+        "price": 50000,
         "discription": "Pouch Square - White",
         "Fulldiscription": "Pouch for everything to carry or organize small item",
         "imgUrl": "/images/pencil-case.jpg"
@@ -58,7 +58,7 @@
     {
         "id": 18,
         "name": "Towel",
-        "price": 190000,
+        "price": 150000,
         "discription": "Towel - BLue",
         "Fulldiscription": "Skin sensitive friendly towel",
         "imgUrl": "/images/handuk.jpg"
@@ -66,7 +66,7 @@
     {
         "id": 19,
         "name": "Clipper",
-        "price": 8000,
+        "price": 11000,
         "discription": "Clipper - Black",
         "Fulldiscription": "Handy cliiper to carry around",
         "imgUrl": "/images/hekter_mini.jpg"
@@ -81,7 +81,7 @@
     },
     {
         "id": 21,
-        "name": "Dior Suvage",
+        "name": "Pads/Pembalut",
         "price": 7000,
         "discription": "Pad",
         "Fulldiscription": "Menstruation Pad for the ladies",
@@ -90,7 +90,7 @@
     {
         "id": 22,
         "name": "Binder",
-        "price": 3000,
+        "price": 30000,
         "discription": "Binder -white",
         "Fulldiscription": "Simple B5 binder to carry around for daily task",
         "imgUrl": "/images/simple-binder.jpg"
@@ -98,7 +98,7 @@
     {
         "id": 23,
         "name": "Shampoo",
-        "price": 50000,
+        "price": 20000,
         "discription": "Shampoo",
         "Fulldiscription": "For the nutrition of your hair",
         "imgUrl": "/images/pantene-shampoo.jpg"
@@ -114,49 +114,49 @@
     {
         "id": 25,
         "name": "Charger",
-        "price": 2570,
+        "price": 45000,
         "discription": "Charger Type C",
         "Fulldiscription": "GFor phone wuth type-c plugin",
         "imgUrl": "/images/charger-typec.jpg"
     },
     {
         "id": 26,
-        "name": "Gaming Chair",
-        "price": 2000,
-        "discription": "GoPro HERO6 4K Action Camera - Black",
-        "Fulldiscription": "GoPro HERO6 4K Action Camera - Black GoPro HERO6 4K Action Camera - BlackGoPro HERO6 4K Action Camera - Black",
+        "name": "Iphone Charger",
+        "price": 100000,
+        "discription": "Charger type lightning",
+        "Fulldiscription": "White Charger cable for iphone users below iphone 15",
         "imgUrl": "/images/charger-iphone.jpg"
     },
     {
         "id": 27,
-        "name": "Bike",
-        "price": 10000,
-        "discription": "GoPro HERO6 4K Action Camera - Black",
-        "Fulldiscription": "GoPro HERO6 4K Action Camera - Black GoPro HERO6 4K Action Camera - BlackGoPro HERO6 4K Action Camera - Black",
+        "name": "White Masker",
+        "price": 5000,
+        "discription": "White Masker - Duckbill",
+        "Fulldiscription": "Protect your health with out white mask to enjoy your days",
         "imgUrl": "/images/masker-white.jpg"
     },
     {
         "id": 28,
-        "name": "Aitpods Max",
-        "price": 20000,
-        "discription": "GoPro HERO6 4K Action Camera - Black",
-        "Fulldiscription": "GoPro HERO6 4K Action Camera - Black GoPro HERO6 4K Action Camera - BlackGoPro HERO6 4K Action Camera - Black",
+        "name": "Socks",
+        "price": 200000,
+        "discription": "White Nike Socks",
+        "Fulldiscription": "White Socks with Nike logo - original",
         "imgUrl": "/images/nike-socks.jpg"
     },
     {
         "id": 29,
-        "name": "Silver Ring",
-        "price": 400,
-        "discription": "GoPro HERO6 4K Action Camera - Black",
-        "Fulldiscription": "GoPro HERO6 4K Action Camera - Black GoPro HERO6 4K Action Camera - BlackGoPro HERO6 4K Action Camera - Black",
+        "name": "Paracetamol",
+        "price": 4000,
+        "discription": "Paracetamol 45g",
+        "Fulldiscription": "Stressed as a college student? try paracetamol",
         "imgUrl": "/images/paracetamol.jpg"
     },
     {
         "id": 30,
-        "name": "سيوف ذو الفقار",
-        "price":5000,
-        "discription": "GoPro HERO6 4K Action Camera - Black",
-        "Fulldiscription": "GoPro HERO6 4K Action Camera - Black GoPro HERO6 4K Action Camera - BlackGoPro HERO6 4K Action Camera - Black",
+        "name": "Soap",
+        "price":15000,
+        "discription": "Dove Mild Soap",
+        "Fulldiscription": "Dove Mild Soap to protect your skin and smoother skin",
         "imgUrl": "/images/dove-soap.jpg"
     },
     {

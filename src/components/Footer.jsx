@@ -19,19 +19,19 @@ const Footer = () => {
                             </Link>
                             </div>
                             <div className='flex justify-center text-center items-center'>
-                            <p className=' text-gray-500'>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dicta soluta consectetur et nulla? Fuga optio enim minima?</p>
+                            <p className=' text-gray-500'>Unklab Shop is a shop from University Klabat, that provide the neccessity of students and other.</p>
                             </div>
                             <div className='flex gap-3 mt-2 justify-center text-center items-center'>
-                                <a href="https://www.facebook.com/profile.php?id=100009001212190">
+                                <a href="https://id-id.facebook.com/">
                                     <img src="/images/facebook.svg" className='w-7' alt="" />
                                 </a>
-                                <a href="https://www.linkedin.com/in/mostapha-taha-106018239/">
+                                <a href="https://id.linkedin.com/in/elshera-dahlan-793a11280">
                                     <img src="/images/linkedin.svg" className='w-7' alt="" />
                                 </a>
-                                <a href="https://github.com/M0staphaTaha">
+                                <a href="https://github.com/eleowyn/unklab-shop-final-frontend?authuser=0">
                                     <img src="/images/github.svg" className='w-7' alt="" />
                                 </a>
-                                <a href="https://twitter.com/M0stapha_">
+                                <a href="https://x.com/i/flow/login?input_flow_data=%7B%22requested_variant%22%3A%22eyJsYW5nIjoiZW4ifQ%3D%3D%22%7D">
                                     <img src="/images/big-x.svg" className='w-7' alt="" />
                                 </a>
                             </div>

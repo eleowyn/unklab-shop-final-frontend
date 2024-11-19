@@ -162,7 +162,7 @@
     {
         "id": 31,
         "name": "Smug",
-        "price": 15700,
+        "price": 40000,
         "discription": "Roblox Mewing Sigma Mug",
         "Fulldiscription": "Only for sigma people",
         "imgUrl": "/images/sigma-mug.jpg"
@@ -178,7 +178,7 @@
     {
         "id": 33,
         "name": "Keyboard",
-        "price": 250000,
+        "price": 500000,
         "discription": "Monochrome Keyboard",
         "Fulldiscription": "Smooth sounf keyboard wireless",
         "imgUrl": "/images/simple-keyboard.jpg"
@@ -202,7 +202,7 @@
     {
         "id": 36,
         "name": "Calculator",
-        "price": 350,
+        "price": 350000,
         "discription": "Calculator - Black",
         "Fulldiscription": "Black Calculator elegeant look for your everday task",
         "imgUrl": "/images/casio-calculator.jpg"
@@ -210,7 +210,7 @@
     {
         "id": 37,
         "name": "Toothbrush",
-        "price": 4000,
+        "price": 8500,
         "discription": "White Toothbrush",
         "Fulldiscription": "Toothbrush for your teeth",
         "imgUrl": "/images/toothbrush.jpg"
@@ -218,7 +218,7 @@
     {
         "id": 38,
         "name": "Toothpaste",
-        "price": 4000,
+        "price": 20000,
         "discription": "Cooling toothpaste",
         "Fulldiscription": "Brush your teeth with this",
         "imgUrl": "/images/colgate.jpg"
@@ -234,7 +234,7 @@
     {
         "id": 40,
         "name": "Drake's Cutesy Filter",
-        "price": 60000,
+        "price": 100,
         "discription": "Cute Filter",
         "Fulldiscription": "Try our Coquete Filter, free drake",
         "imgUrl": "/images/drake-koket.jpg"

@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { ref, onValue } from 'firebase/database';
-import database from '../firebase-config';
+import { database } from '../firebase-config';
 import ProductItem from '../components/ProductItem';
 import { useParams } from 'react-router-dom';
 

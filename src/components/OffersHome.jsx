@@ -1,6 +1,6 @@
 import React, { useContext, useEffect, useState } from 'react';
 import { NavLink } from 'react-router-dom';
-import database from '../firebase-config'; // Import firebase config
+import { database } from '../firebase-config';
 import { ref, onValue } from 'firebase/database';
 import StoreItem from './StoreItem';
 import { UserProvider } from '../Context/CartContext';
@@ -19,8 +19,8 @@ const OffersHome = ({ seconds }) => {
     }
 
     useEffect(() => {
-        const storeItemsRef = ref(database, 'offers'); // Ganti dengan path yang sesuai
-        const itemssRef = ref(database, 'products'); // Ganti dengan path yang sesuai
+        const storeItemsRef = ref(database, 'offers');
+        const itemssRef = ref(database, 'products');
 
         onValue(storeItemsRef, (snapshot) => {
             const data = snapshot.val();

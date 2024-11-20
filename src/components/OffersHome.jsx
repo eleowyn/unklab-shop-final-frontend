@@ -1,27 +1,40 @@
 import React, { useContext, useEffect, useState } from 'react';
 import { NavLink } from 'react-router-dom';
-import { ref, onValue } from "firebase/database";
-import { database } from '../firebase-config';
+import { database } from '../firebase-config'; // Import firebase config
+import { ref, onValue } from 'firebase/database';
 import StoreItem from './StoreItem';
 import { UserProvider } from '../Context/CartContext';
 import AllStoreItems from './AllStoreItems';
 
-const OffersHome = ({ id, price, name, imgUrl, discription, seconds }) => {
-    const [timeLeft, setTimeLeft] = useState(seconds);
+const OffersHome = ({ seconds }) => {
     const [storeItems, setStoreItems] = useState([]);
-    const [allItems, setAllItems] = useState([]);
+    const [itemss, setItemss] = useState([]);
+    const [timeLeft, setTimeLeft] = useState(seconds);
 
-    // Timer formatting function
     function formatTime(seconds) {
         const h = Math.floor(seconds / 3600);
         const m = Math.floor((seconds % 3600) / 60);
         const s = Math.floor(seconds % 60);
-        return `${h.toString().padStart(2, "0")}:${m
-            .toString()
-            .padStart(2, "0")}:${s.toString().padStart(2, "0")}`;
+        return `${h.toString().padStart(2, "0")}:${m.toString().padStart(2, "0")}:${s.toString().padStart(2, "0")}`;
     }
 
-    // Timer effect
+    useEffect(() => {
+        const storeItemsRef = ref(database, 'offers'); // Ganti dengan path yang sesuai
+        const itemssRef = ref(database, 'products'); // Ganti dengan path yang sesuai
+
+        onValue(storeItemsRef, (snapshot) => {
+            const data = snapshot.val();
+            const items = data ? Object.values(data) : [];
+            setStoreItems(items);
+        });
+
+        onValue(itemssRef, (snapshot) => {
+            const data = snapshot.val();
+            const items = data ? Object.values(data) : [];
+            setItemss(items);
+        });
+    }, []);
+
     useEffect(() => {
         if (timeLeft > 0) {
             const timeoutId = setTimeout(() => {
@@ -31,41 +44,9 @@ const OffersHome = ({ id, price, name, imgUrl, discription, seconds }) => {
         }
     }, [timeLeft]);
 
-    // Firebase data fetching
-    useEffect(() => {
-        // Reference to your offers data
-        const offersRef = ref(database, 'offers');
-        // Reference to your all products data
-        const productsRef = ref(database, 'products');
-
-        // Listen for offers data changes
-        const unsubscribeOffers = onValue(offersRef, (snapshot) => {
-            const data = snapshot.val();
-            if (data) {
-                const itemsArray = Object.values(data);
-                setStoreItems(itemsArray);
-            }
-        });
-
-        // Listen for all products data changes
-        const unsubscribeProducts = onValue(productsRef, (snapshot) => {
-            const data = snapshot.val();
-            if (data) {
-                const itemsArray = Object.values(data);
-                setAllItems(itemsArray);
-            }
-        });
-
-        // Cleanup function
-        return () => {
-            unsubscribeOffers();
-            unsubscribeProducts();
-        };
-    }, []);
-
     return (
         <UserProvider>
-            <div className='grid mt-[100px] mb-[100px] justify-center '>
+            <div className='grid mt-[100px] mb-[100px] justify-center'>
                 <div className='flex mb-5 justify-between'>
                     <h1 className='text-[25px] font-bold text-[#3772ad]'>Offers</h1>
                     <p className='text-[25px] font-bold text-[#3772ad]'>{formatTime(timeLeft)}</p>
@@ -83,17 +64,17 @@ const OffersHome = ({ id, price, name, imgUrl, discription, seconds }) => {
                 <div className='flex relative bottom-20 left-10 w-[180px]'>
                     <div className='z-0'>
                         <NavLink to='/' className="relative inline-block text-lg group">
-                            {/* ... NavLink content ... */}
+                            {/* existing content */}
                         </NavLink>
                     </div>
                 </div>
             </div>
-            <div className='grid mt-[100px] mb-[100px] justify-center '>
+            <div className='grid mt-[100px] mb-[100px] justify-center'>
                 <div className='flex mb-5 justify-between'>
                     <h1 className='text-[25px] font-bold text-[#3772ad]'>All Products</h1>
                 </div>
                 <div className='grid justify-center grid-cols-1 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 2xl:grid-cols-5'>
-                    {allItems.map((item) => (
+                    {itemss.map((item) => (
                         <div key={item.id}>
                             <AllStoreItems {...item} />
                         </div>

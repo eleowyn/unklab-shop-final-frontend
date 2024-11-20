@@ -8,7 +8,7 @@ import { getDatabase, ref, child, get } from 'firebase/database';
 const AllItems = () => {
     const {ItemtId} = useParams()
     const dbRef = ref(getDatabase());
-    const itemsRef = child(dbRef, 'itemss');
+    const itemsRef = child(dbRef, 'storeitems');
 
     const [items, setItems] = React.useState([]);
 

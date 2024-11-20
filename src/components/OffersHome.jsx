@@ -1,6 +1,6 @@
 import React, { useContext, useEffect, useState } from 'react';
 import { NavLink } from 'react-router-dom';
-import { database } from '../firebase-config'; // Import firebase config
+import database from '../firebase-config'; // Import firebase config
 import { ref, onValue } from 'firebase/database';
 import StoreItem from './StoreItem';
 import { UserProvider } from '../Context/CartContext';

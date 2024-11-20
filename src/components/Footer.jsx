@@ -114,9 +114,6 @@ const Footer = () => {
                             </div>
                         </div>
                     </div>
-                    <div className=" bg-black border-[1px] border-[#172d42] border-b-0 border-l-0 border-r-0 text-white flex justify-center h-10 items-center ">
-                        <p>	&copy; {year} <a className=' hover:text-sky-600 text-sky-800 font-bold' href="https://mostapha-taha.vercel.app">Mostapha Taha</a></p>
-                    </div>
                 </div>
             </footer>
         </>

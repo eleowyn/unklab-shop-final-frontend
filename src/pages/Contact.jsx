@@ -25,7 +25,7 @@ const Contact = () => {
             </div>
         `;
 
-            const response = await fetch("https://sendmail-api-docs.vercel.app/api/send", {
+            const response = await fetch("", {
                 method: "POST",
                 body: JSON.stringify({
                     to: "freelancing_messages@hotmail.com", 

@@ -5,7 +5,7 @@ import { NavLink } from 'react-router-dom';
 import { useState } from 'react';
 
 
-const ItemForAllItems = ({ id, price, name, imgUrl, discription, Fulldiscription }) => {
+const ItemForAllItems = ({ Fulldiscription, discription, id, imgUrl, name, price }) => {
     const [isOpen, setIsOpen] = useState(true);
 
     const toggleNavbar = () => {
